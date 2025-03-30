@@ -1,0 +1,17 @@
+# Ignore Python compiled files  
+__pycache__/  
+*.pyc  
+
+# Ignore Jupyter Notebook checkpoints  
+.ipynb_checkpoints/  
+
+# Ignore Virtual Environment  
+.env  
+venv/  
+
+# Ignore Large Dataset Files  
+*.csv  
+*.zip  
+
+# (Optional) Ignore all Jupyter Notebooks  
+*.ipynb  
