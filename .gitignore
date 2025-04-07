@@ -13,5 +13,4 @@ venv/
 *.csv  
 *.zip  
 
-# (Optional) Ignore all Jupyter Notebooks  
-*.ipynb  
+
